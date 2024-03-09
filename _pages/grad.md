@@ -4,4 +4,7 @@ layout: single
 permalink: /grad/
 entries_layout: grid
 author_profile: true
+sidebar:
+  title: ""
+  nav: grad
 ---

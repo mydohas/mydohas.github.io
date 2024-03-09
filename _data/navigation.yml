@@ -8,7 +8,14 @@ main:
      url: /project/
   # - title: "Sitemap"
   #   url: /sitemap/
-
+grad:
+  - title: "졸업 프로젝트"
+    children:
+      - title: "과제"
+        url: /grad/assinment/
+      - title: "리서치"
+        url: /grad/research/
+        
 project:
   - title: "프로젝트"
     children:
@@ -16,3 +23,4 @@ project:
         url: /project/1st/
       - title: "2nd"
         url: /project/2nd/
+
