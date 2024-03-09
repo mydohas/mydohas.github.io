@@ -1,8 +1,8 @@
-defaults:
-  # _pages
-  - scope:
-      path: "/about/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+---
+permalink: /about/
+title: "About"
+# toc: true
+# toc_sticky: true
+# toc_label: "MYSELF"
+---
+
