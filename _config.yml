@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "NUEAHOD"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "dohaeun" # site tagline that appears below site title in masthead
 name                     : "DO Haeun"
 description              : "mydohas"
 url                      : "https://mydohas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "DO Haeun"
   avatar           : "/assets/img/bio-avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Styuding Design & IT engineering in Sookmyung W.University"
+  bio              : "Design & IT engineering"
   location         : "Seoul, South Korea"
   #email            : "503729@sm.ac.kr"
   links:
@@ -124,19 +124,19 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mydohas"
+      url: "https://github.com/mydohas"{:target="_blank"}
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dev._.ridbaexh/"
+      url: "https://www.instagram.com/dev._.ridbaexh/"{:target="_blank"}
     - label: "Behance"
       icon: "fab fa-fw fa-behance-square"
-      # url: ""
+      # url: ""{:target="_blank"}
     - label: "Linked In"
       icon: "fab fa-fw fa-linkedin"
-      url: ""
+      url: ""{:target="_blank"}
     - label: "Velog"
       icon: "fab fa-fw fa-vimeo-square"
-      url: "https://velog.io/@mydohas/posts"
+      url: "https://velog.io/@mydohas/posts"{:target="_blank"}
 
 # Site Footer
 footer:
