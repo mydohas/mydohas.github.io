@@ -4,5 +4,15 @@ main:
      url: /about/
    - title: "Grad Project"
      url: /grad/
+   - title: "Project"
+     url: /project/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+project:
+  - title: "프로젝트"
+    children:
+      - title: "1st"
+        url: /project/1st/
+      - title: "2nd"
+        url: /project/2nd/

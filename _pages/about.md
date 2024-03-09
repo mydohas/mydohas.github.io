@@ -1,8 +1,8 @@
 ---
+title: About Me
+layout: single
 permalink: /about/
-title: "About"
-# toc: true
-# toc_sticky: true
-# toc_label: "MYSELF"
+entries_layout: grid
+author_profile: true
 ---
 

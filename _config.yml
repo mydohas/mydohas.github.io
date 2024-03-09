@@ -10,6 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -18,7 +19,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "NUEAHOD"
 title_separator          : "-"
-subtitle                 : "dohaeun" # site tagline that appears below site title in masthead
+subtitle                 : "portfolio" # site tagline that appears below site title in masthead
 name                     : "DO Haeun"
 description              : "mydohas"
 url                      : "https://mydohas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -100,7 +101,7 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
- 
+
 
 # Site Author
 author:
@@ -124,19 +125,19 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mydohas"{:target="_blank"}
+      url: "https://github.com/mydohas"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dev._.ridbaexh/"{:target="_blank"}
+      url: "https://www.instagram.com/dev._.ridbaexh/"
     - label: "Behance"
       icon: "fab fa-fw fa-behance-square"
-      # url: ""{:target="_blank"}
+      # url: ""
     - label: "Linked In"
       icon: "fab fa-fw fa-linkedin"
-      url: ""{:target="_blank"}
+      url: ""
     - label: "Velog"
       icon: "fab fa-fw fa-vimeo-square"
-      url: "https://velog.io/@mydohas/posts"{:target="_blank"}
+      url: "https://velog.io/@mydohas/posts"
 
 # Site Footer
 footer:
