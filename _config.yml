@@ -9,22 +9,20 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-plugins:
-  - jekyll-include-cache
 
- theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-JR"
+locale                   : "en-US"
 title                    : "NUEAHOD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DO Haeun"
 description              : "mydohas"
 url                      : "https://mydohas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "blog" # the subpath of your site, e.g. "/blog"
+# baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "mydohas/mydohas.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -107,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "DO Haeun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Styuding Design & IT engineering"
+  avatar           : "/assets/img/bio-avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Styuding Design & IT engineering in Sookmyung W.University"
   location         : "Seoul, South Korea"
-  email            :
+  #email            : "503729@sm.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      # url: "Google:503729@sm.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,10 +124,19 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mydohas"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/dev._.ridbaexh/"
+    - label: "Behance"
+      icon: "fab fa-fw fa-behance-square"
+      # url: ""
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      url: ""
+    - label: "Velog"
+      icon: "fab fa-fw fa-vimeo-square"
+      url: "https://velog.io/@mydohas/posts"
 
 # Site Footer
 footer:
@@ -146,12 +153,13 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Velog"
+      icon: "fab fa-fw fa-vimeo-square"
+      url: "https://velog.io/@mydohas/posts"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dev._.ridbaexh/"
+
 
 
 # Reading Files
