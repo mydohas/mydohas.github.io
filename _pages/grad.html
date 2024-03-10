@@ -1,0 +1,17 @@
+---
+title: 졸업 프로젝트 스튜디오
+layout: archive
+permalink: /grad/
+entries_layout: grid
+author_profile: true
+sidebar:
+  title: ""
+  nav: grad
+---
+
+
+{% for post in site.post %}
+  {% unless post.hidden %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}

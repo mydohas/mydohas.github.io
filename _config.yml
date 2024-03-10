@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "DO Haeun"
-  avatar           : "/assets/img/bio-avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/bio-avatar-3.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Design & IT engineering"
   location         : "Seoul, South Korea"
   #email            : "503729@sm.ac.kr"

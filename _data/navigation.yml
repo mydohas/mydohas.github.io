@@ -6,6 +6,10 @@ main:
      url: /grad/
    - title: "Project"
      url: /project/
+     
+   - title: "Category"
+     url: /categories/
+     
   # - title: "Sitemap"
   #   url: /sitemap/
 grad:
