@@ -1,7 +1,7 @@
 ---
 title: 졸업 프로젝트 스튜디오
 layout: archive
-permalink: /grad
+permalink: /grad/
 entries_layout: post
 author_profile: true
 sidebar:
