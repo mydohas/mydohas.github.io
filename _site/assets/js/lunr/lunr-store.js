@@ -1,7 +1,13 @@
 var store = [{
         "title": "1주차 리서치",
-        "excerpt":"hi Minimal Mistakes has been developed as a Gem-based theme for easier use, and 100% compatible with GitHub Pages when used as a remote theme. If you enjoy this theme, please consider sponsoring me to continue developing and maintaining it. Installing the theme If you’re running Jekyll v3.7+ and self-hosting...","categories": [],
+        "excerpt":"졸업프로젝트 주제, 채용 정보   ","categories": ["research","grad"],
         "tags": [],
-        "url": "/grad/research/day1-research",
+        "url": "/research/day1-research",
+        "teaser": null
+      },{
+        "title": "1주차 리서치 2",
+        "excerpt":"졸업프로젝트 주제, 채용 정보 !   1 ddmdkr  아니이거 왜안돼   2 ㅏㅣ넝ㄴ미  왜안되  ","categories": ["research","grad"],
+        "tags": [],
+        "url": "/research/day1-research2",
         "teaser": null
       }]

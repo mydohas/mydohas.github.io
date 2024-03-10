@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "DO Haeun"
-  avatar           : "/assets/img/bio-avatar-3.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/bio-avatar-5.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Design & IT engineering"
   location         : "Seoul, South Korea"
   #email            : "503729@sm.ac.kr"
@@ -131,10 +131,10 @@ author:
       url: "https://www.instagram.com/dev._.ridbaexh/"
     - label: "Behance"
       icon: "fab fa-fw fa-behance-square"
-      # url: ""
+      url: "https://www.behance.net/haeundo"
     - label: "Linked In"
       icon: "fab fa-fw fa-linkedin"
-      url: ""
+      url: "https://www.linkedin.com/in/haeun-do-60037a2b9/"
     - label: "Velog"
       icon: "fab fa-fw fa-vimeo-square"
       url: "https://velog.io/@mydohas/posts"
@@ -299,7 +299,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false

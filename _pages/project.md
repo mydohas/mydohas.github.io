@@ -2,7 +2,7 @@
 title: Project in others
 layout: single
 permalink: /project/
-entries_layout: grid
+entries_layout: post
 author_profile: true
 sidebar:
   title: ""
