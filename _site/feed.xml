@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-12T23:16:23+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NUEAHOD</title><subtitle>mydohas</subtitle><author><name>DO Haeun</name></author><entry><title type="html">[REDESIGN] PAW-IN-HAND App</title><link href="http://localhost:4000/project/paw-in-hand" rel="alternate" type="text/html" title="[REDESIGN] PAW-IN-HAND App" /><published>2024-03-12T00:00:00+09:00</published><updated>2022-06-10T09:00:00+09:00</updated><id>http://localhost:4000/project/p1-pawinhand</id><content type="html" xml:base="http://localhost:4000/project/paw-in-hand"><![CDATA[<p class="text-center">2022년 1학기 인터랙티브 미디어 디자인 1 수업에서 진행한 팀프로젝트</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-13T00:35:22+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NUEAHOD</title><subtitle>mydohas</subtitle><author><name>DO Haeun</name></author><entry><title type="html">[REDESIGN] PAW-IN-HAND App</title><link href="http://localhost:4000/project/paw-in-hand" rel="alternate" type="text/html" title="[REDESIGN] PAW-IN-HAND App" /><published>2024-03-12T00:00:00+09:00</published><updated>2022-06-10T09:00:00+09:00</updated><id>http://localhost:4000/project/p1-pawinhand</id><content type="html" xml:base="http://localhost:4000/project/paw-in-hand"><![CDATA[<p class="text-center">2022년 1학기 인터랙티브 미디어 디자인 1 수업에서 진행한 팀프로젝트</p>
 
 <blockquote>
   <p>Attruibute</p>
@@ -13,8 +13,54 @@
 <img src="/assets/img/pawinhand/paw-img-02.png" alt="pawinhand 2" width="100%" class="align-center" /></p>
 <h3 id="result">Result</h3>]]></content><author><name>DO Haeun</name></author><category term="project" /><category term="3rd" /><category term="UIUX" /><summary type="html"><![CDATA[2022년 1학기 인터랙티브 미디어 디자인 1 수업에서 진행한 팀프로젝트]]></summary></entry><entry><title type="html">1주차 리서치 2</title><link href="http://localhost:4000/research/day1-research2" rel="alternate" type="text/html" title="1주차 리서치 2" /><published>2024-03-10T00:00:00+09:00</published><updated>2024-03-10T09:00:00+09:00</updated><id>http://localhost:4000/research/w1-career</id><content type="html" xml:base="http://localhost:4000/research/day1-research2"><![CDATA[<p>채용 정보 리스트업</p>
 
-<h2 id="1-ddmdkr">1 ddmdkr</h2>
-<p>아니이거 왜안돼</p>
+<h2 id="1-와이즈텍">1. 와이즈텍</h2>
+<ul>
+  <li>직무: 프론트엔드</li>
+  <li>고용 형태 : 정규직(수습1개월)</li>
+  <li>자격 요건 : 신입, 경력(5년 이상)</li>
+  <li>학력 사항 : 고졸 이상</li>
+  <li>직무 기술 : JS, Vue.js, React.js</li>
+  <li>우대사항 : 해당직무인턴경력자, 인근거주자      <br />
+<a href="https://job.incruit.com/jobdb_info/jobpost.asp?job=2206070002767">링크</a></li>
+</ul>
 
-<h2 id="2-ㅏㅣ넝ㄴ미">2 ㅏㅣ넝ㄴ미</h2>
-<p>왜안되</p>]]></content><author><name>DO Haeun</name></author><category term="research" /><category term="grad" /><summary type="html"><![CDATA[채용 정보 리스트업]]></summary></entry><entry><title type="html">1주차 리서치 1</title><link href="http://localhost:4000/research/day1-research" rel="alternate" type="text/html" title="1주차 리서치 1" /><published>2024-03-09T00:00:00+09:00</published><updated>2024-03-09T09:00:00+09:00</updated><id>http://localhost:4000/research/1st</id><content type="html" xml:base="http://localhost:4000/research/day1-research"><![CDATA[<p>졸업프로젝트 주제</p>]]></content><author><name>DO Haeun</name></author><category term="research" /><category term="grad" /><summary type="html"><![CDATA[졸업프로젝트 주제]]></summary></entry></feed>
+<h2 id="2-어밸브">2. 어밸브</h2>
+<ul>
+  <li>직무 : 프론트엔드</li>
+  <li>고용 형태 : 정규직(수습3개월)</li>
+  <li>자격 요건 : 신입</li>
+  <li>학력 사항 : 대졸 이상</li>
+  <li>직무 기술 : HTML, CSS, JS, React</li>
+  <li>우대사항 : 컴퓨터/시스템공학전공자, UI/UX 디자인에 대한 이해, 백엔드 기술에 대한 이해, AWS를 활용한 클라우드 기술에 대한 이해
+<a href="https://job.incruit.com/jobdb_info/jobpost.asp?job=2305220004538">링크</a></li>
+</ul>
+
+<h2 id="3-바로티나">3. 바로티나</h2>
+<ul>
+  <li>직무 : 프론트엔드</li>
+  <li>고용 형태 : 정규직(수습3개월)</li>
+  <li>자격 요건 : 신입</li>
+  <li>학력 사항 : 무관</li>
+  <li>직무 기술 : HTML, CSS, JS, React</li>
+  <li>우대사항 : React-Native, Node.js, GraphQL기술, Agile/Scrum 방식으로 개발 프로젝트 경험
+<a href="https://job.incruit.com/jobdb_info/jobpost.asp?job=2305220004538">링크</a></li>
+</ul>
+
+<h2 id="4-이도산업">4. 이도산업</h2>
+<ul>
+  <li>직무 : UI/UX디자이너</li>
+  <li>고용 형태 : 정규직(수습3개월)</li>
+  <li>자격 요건 : 신입</li>
+  <li>학력 사항 : 무관</li>
+  <li>직무 기술 : UI/UX 디자인 , 쇼핑몰(배너, 썸네일, 상세페이지) , 웹/앱 디자인 기획
+<a href="https://job.incruit.com/jobdb_info/jobpost.asp?job=2305220004538">링크</a></li>
+</ul>]]></content><author><name>DO Haeun</name></author><category term="research" /><category term="grad" /><summary type="html"><![CDATA[채용 정보 리스트업]]></summary></entry><entry><title type="html">1주차 리서치 1</title><link href="http://localhost:4000/research/day1-research" rel="alternate" type="text/html" title="1주차 리서치 1" /><published>2024-03-09T00:00:00+09:00</published><updated>2024-03-09T09:00:00+09:00</updated><id>http://localhost:4000/research/1st</id><content type="html" xml:base="http://localhost:4000/research/day1-research"><![CDATA[<p>졸업프로젝트 주제</p>
+
+<h2 id="1-투약-관련-앱">1. 투약 관련 앱</h2>
+<p>처방전이나 약봉투의  텍스트를 스캔하여 해당약품의 부작용, 처방 및 조제의 확실성 확인, 함께 먹어도 되는 약인지 확인하는 기능이 담긴 앱.
+투약 방법 학습, 약 먹는 시간 체크, 약이 떨어지기 전에 병원에 갈 수 있도록 알림 주는 기능 추가</p>
+
+<ul>
+  <li>비슷한 기능이 있는 “스마트DUR”이라는 앱이 있는데 2011년에 만들어진 앱이라 텍스트 스캔 기능이 없고 단순 타이핑으로 서칭. 소팅하는 앱이라 이걸 개선해 보는 것도 좋겠다고 생각함.</li>
+  <li>기획 의도 : 작년에 코로나에 걸리면서 생긴 후유증으로 한번에 여러 병원의 약을 꽤 오래 먹게 된 경험이 있다. 잘 확인 했지만 같은 성분 중복 복용이나 약끼리 충돌하는 것이 걱정되었고 약먹고 자고를 반복하다보니 약을 먹은 시간을 확인하기 어려워서 이런 불편함을 해소해보고자 기획하게 되었다. 고령화로 인해 이런 앱의 수요가 있을 것이라고 예측했다.</li>
+</ul>]]></content><author><name>DO Haeun</name></author><category term="research" /><category term="grad" /><summary type="html"><![CDATA[졸업프로젝트 주제]]></summary></entry></feed>
