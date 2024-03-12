@@ -1,5 +1,5 @@
 ---
-title: Project in others
+title: Project
 layout: archive
 permalink: /project/
 entries_layout: post

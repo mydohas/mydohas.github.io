@@ -2,7 +2,9 @@
 title: "[REDESIGN] PAW-IN-HAND App"
 categories: 
    - project
-tags: 
+tags:    
+  - 3rd
+  - UIUX
 permalink: /project/paw-in-hand
 last_modified_at: 2022-06-10+09:00
 toc: false

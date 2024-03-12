@@ -22,10 +22,23 @@ grad:
     
         
 project:
-  - title: "프로젝트"
+  - title: "분류"
     children:
       - title: "APP"
-        url: 
+        url: /project   
       - title: "WEB"
-        url: 
+        url: /project   
+      - title: "EDITORIAL"
+        url: /project   
+  - title: "학년"
+    children:
+      - title: "1st"
+        url: /project   
+      - title: "2nd"
+        url: /project      
+      - title: "3rd"
+        url: /project   
+      - title: "4th"
+        url: /project   
+
 
