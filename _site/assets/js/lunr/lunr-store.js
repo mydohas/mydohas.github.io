@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/research/day1-research2",
         "teaser": null
+      },{
+        "title": "[REDESIGN] PAW-IN-HAND App",
+        "excerpt":"졸업프로젝트 주제, 채용 정보 !   1 ddmdkr  아니이거 왜안돼   2 ㅏㅣ넝ㄴ미  왜안되  ","categories": ["project"],
+        "tags": [],
+        "url": "/project/paw-in-hand",
+        "teaser": null
       }]
