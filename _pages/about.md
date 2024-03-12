@@ -5,6 +5,7 @@ permalink: /about/
 entries_layout: grid
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 ![aboutme-icon](/assets/img/bio-avatar-1.png){: width="50%" height="50%"0}{:class="align-center"}
@@ -52,5 +53,6 @@ Key Skills:
 ----------
     
 ### Portfolio
-[PAW-IN-HAND Rebranding](/_pages/project.md) 
-(W.I.P)s
+[PAW-IN-HAND Rebranding](/project/paw-in-hand)      
+...      
+(W.I.P)
