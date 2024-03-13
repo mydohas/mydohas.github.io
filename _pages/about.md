@@ -53,7 +53,7 @@ Key Skills:
 ----------
     
 ### Portfolio
-![thumb1](/assets/img/pawinhand/thumb.png){: width="20%"}
+![thumb1](/assets/img/pawinhand/thumb.png){: width="30%"}      
 [PAW-IN-HAND Rebranding](/project/paw-in-hand)      
 ...      
 (W.I.P)
