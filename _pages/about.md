@@ -10,7 +10,7 @@ toc_sticky: true
 
 ![aboutme-icon](/assets/img/bio-avatar-1.png){: width="50%" height="50%"0}{:class="align-center"}
 
-# WELCOME TO MY WEBSITE!!
+## UX Designer/ Frontend Developer
 {: .text-center}
 
 ### Name
@@ -23,7 +23,7 @@ toc_sticky: true
 
 ### Contact
 
-이메일: 503729@sm.ac.kr
+이메일: mydohas@gmail.com
 
 
 ----------
