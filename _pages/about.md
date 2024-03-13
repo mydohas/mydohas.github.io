@@ -32,15 +32,17 @@ toc_sticky: true
 
 
 Key Skills:
-1. Design
-- Illustrator   ◼︎◼︎◼︎◼◻︎      
-- Indesign   ◼︎◼︎◼︎◻︎◻︎       
-- Photoshop ◼︎◼︎◼︎◼◻︎        
 
 
-2. Programming
-- JSX  ◼︎◼︎◼︎◼◻︎       
-- React ◼︎◼◻︎◻︎◻︎      
+|__Design__  ||
+|Illustrator  |◼︎◼︎◼︎◼◻︎|
+|Indesign  |◼︎◼︎◼︎◻︎◻︎|
+|Photoshop  |◼︎◼︎◼︎◼◻︎|
+|||
+|__Programming__||
+|JSX  |◼︎◼︎◼︎◼◻︎|
+|React  |◼︎◼◻︎◻︎◻︎|
+    
 
 ----------
 
