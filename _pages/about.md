@@ -6,6 +6,8 @@ entries_layout: grid
 author_profile: true
 toc: true
 toc_sticky: true
+toc_label: "About me"
+toc_icon: "heart"
 ---
 
 ![aboutme-icon](/assets/img/bio-avatar-1.png){: width="50%" height="50%"}{:class="align-center"}

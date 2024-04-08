@@ -6,15 +6,16 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 12 !default;
+$doc-font-size: 10 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$customfont : 'SUIT Variable';
+$serif: $customfont, Georgia, Times, serif !default;
+$sans-serif: $customfont, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
@@ -46,7 +47,7 @@ $type-size-8: 0.625em !default; // ~10px
 /* headline scale */
 $h-size-1: 1.563em !default; // ~25.008px
 $h-size-2: 1.25em !default; // ~20px
-$h-size-3: 1.125em !default; // ~18px
+$h-size-3: 1.125em !default; // ~18px 1.125
 $h-size-4: 1.0625em !default; // ~17px
 $h-size-5: 1.03125em !default; // ~16.5px
 $h-size-6: 1em !default; // ~16px
@@ -155,9 +156,9 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 100px !default;//200px !default;
+$right-sidebar-width: 200px !default;//300px !default;
+$right-sidebar-width-wide: 250px !default;//400px !default;
 
 /*
    Other

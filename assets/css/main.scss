@@ -7,3 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@font-face {
+	font-family: 'SUIT Variable';
+	font-weight: 100 900;
+	src: url('./assets/css/SUIT-Variable.woff2') format('woff2-variations');
+}

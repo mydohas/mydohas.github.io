@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: collection
-permalink: ""
+permalink: "/run"
 collection: portfolio
 entries_layout: grid
 # header:
