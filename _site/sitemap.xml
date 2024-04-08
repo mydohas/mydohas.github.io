@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/project/paw-in-hand</loc>
+<lastmod>2022-06-10T09:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/research/day1-research</loc>
 <lastmod>2024-03-09T09:00:00+09:00</lastmod>
 </url>
@@ -9,8 +13,20 @@
 <lastmod>2024-03-10T09:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/project/paw-in-hand</loc>
-<lastmod>2022-06-10T09:00:00+09:00</lastmod>
+<loc>http://localhost:4000/research/w2</loc>
+<lastmod>2024-03-12T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/w3</loc>
+<lastmod>2024-03-19T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/w4</loc>
+<lastmod>2024-03-26T09:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/w5</loc>
+<lastmod>2024-04-03T09:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -35,5 +51,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/grad/research</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
