@@ -56,14 +56,13 @@ Key Skills:
 
 ### Education
 
-- Sookmyung Women's University
-	- DEPARTMENT OF VISUAL & MEDIA DESIGN
-	- DIVISION OF IT ENGINEERING (concurrent major)
+|__Sookmyung Women's University__  ||
+|EPARTMENT OF VISUAL & MEDIA DESIGN ||
+|DIVISION OF IT ENGINEERING  |(concurrent major)|
 
 ----------
     
 ### Portfolio
-![thumb1](/assets/img/pawinhand/thumb.png){: width="30%"}      
-[PAW-IN-HAND Rebranding](/project/paw-in-hand)      
-...      
-(W.I.P)
+
+| ![thumb1](/assets/img/pawinhand/thumb.png){: width="40%"}   | [PAW-IN-HAND Redesign](/project/paw-in-hand){: width="60%"}{: font-size="12px"}  |
+|  (W.I.P) | Insta SHOP Redesign |
