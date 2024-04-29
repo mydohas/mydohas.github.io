@@ -1,9 +1,9 @@
 var store = [{
-        "title": "[REDESIGN] PAW-IN-HAND App",
-        "excerpt":"2022년 1학기 인터랙티브 미디어 디자인 1 수업에서 진행한 팀프로젝트      Attruibute         UT: 30%     Design: 30%     Test(Q/A): 70%         Result  ","categories": ["project"],
+        "title": "[REDESIGN] PAW-IN-HAND",
+        "excerpt":"22-1 인터랙티브미디어디자인1 팀프로젝트      Attruibute         UT: 30%     Design: 30%     Test(Q/A): 70%         Result  ","categories": ["project"],
         "tags": ["3rd","UIUX"],
         "url": "/project/paw-in-hand",
-        "teaser": null
+        "teaser": "/assets/img/pawinhand/thumb.png"
       },{
         "title": "1주차 리서치 1",
         "excerpt":"졸업프로젝트 주제 1. 투약 관련 앱 처방전이나 약봉투의 텍스트를 스캔하여 해당약품의 부작용, 처방 및 조제의 확실성 확인, 함께 먹어도 되는 약인지 확인하는 기능이 담긴 앱. 투약 방법 학습, 약 먹는 시간 체크, 약이 떨어지기 전에 병원에 갈 수 있도록 알림 주는 기능 추가 비슷한 기능이 있는 “스마트DUR”이라는 앱이 있는데 2011년에...","categories": ["research","grad"],
@@ -40,4 +40,22 @@ var store = [{
         "tags": [],
         "url": "/research/w5",
         "teaser": null
+      },{
+        "title": "6주차",
+        "excerpt":"인터뷰 분석 및 행동 패턴 분석   이번 주 스터디 링크 -&gt; Next Week… Persona 작성  ","categories": ["research","grad"],
+        "tags": [],
+        "url": "/research/w6",
+        "teaser": "/assets/img/grad/thumbnails/w6.jpg"
+      },{
+        "title": "7주차",
+        "excerpt":"아이데이션 정리 및 페르소나 작성 + 스토리보드 제작             이번 주 스터디 링크   -&gt; Next Week… User Journey 작성  ","categories": ["research","grad"],
+        "tags": [],
+        "url": "/research/w7",
+        "teaser": "/assets/img/grad/w7-2.png"
+      },{
+        "title": "8주차",
+        "excerpt":"중간발표   지금까지 진행한 내용을 발표      Behance  ","categories": ["research","grad"],
+        "tags": [],
+        "url": "/research/w8",
+        "teaser": "/assets/img/grad/thumbnails/w8.jpg"
       }]

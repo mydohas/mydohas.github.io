@@ -59,7 +59,7 @@ Key Skills:
 ### Education
 
 |__Sookmyung Women's University__  ||
-|EPARTMENT OF VISUAL & MEDIA DESIGN ||
+|DEPARTMENT OF VISUAL & MEDIA DESIGN ||
 |DIVISION OF IT ENGINEERING  |(concurrent major)|
 
 ----------

@@ -1,8 +1,8 @@
 ---
-title: "[REDESIGN] PAW-IN-HAND App"
-categories: 
-   - project
-tags:    
+title: "[REDESIGN] PAW-IN-HAND"
+categories:
+  - project
+tags:
   - 3rd
   - UIUX
 permalink: /project/paw-in-hand
@@ -12,9 +12,12 @@ toc_sticky: true
 sidebar:
   title: ""
   nav: project
+preview: assets/img/pawinhand/thumb.png
+header:
+        teaser: /assets/img/pawinhand/thumb.png
 ---
 
-2022년 1학기 인터랙티브 미디어 디자인 1 수업에서 진행한 팀프로젝트
+## 22-1 인터랙티브미디어디자인1 팀프로젝트
 {: .text-center}
 
 > Attruibute    
